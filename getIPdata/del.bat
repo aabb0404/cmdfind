@@ -1,0 +1,1 @@
+sed -i '1,514d' ../cmd/test.txt
