@@ -7,7 +7,7 @@
   "mapVersion": "v1",
   "main": "server.js",
   "scripts": {
-    "start": "babel-node ./finddata.js",
+    "start": "babel-node ./job.js",
     "lint": "eslint src --fix"
   },
   "engines": {
