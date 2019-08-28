@@ -1,3 +1,4 @@
 # cmdfind
-# 134
-# 12345
+# cd 置資料夾
+# npm install
+# 啟動.bat
