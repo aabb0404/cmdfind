@@ -8,6 +8,7 @@
   "main": "server.js",
   "scripts": {
     "start": "babel-node ./job.js",
+    "run start": "babel-node ./finddata.js",
     "lint": "eslint src --fix"
   },
   "engines": {
